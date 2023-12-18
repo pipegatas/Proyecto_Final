@@ -1,0 +1,20 @@
+.desktop-1
+{
+position:absolute;
+background-color:#EED6D6;
+height:1024px;
+width:1440px;
+padding:0px;
+}
+
+.rectangle1
+{
+background-color:#4c3838;
+height:1026px;
+width:1440.5px;
+filter:drop-shadow(0px 4px 4px rgba(0,0,0,0.25));
+position:absolute;
+top:0px;
+left:0px;
+}
+
